@@ -6,10 +6,12 @@ The smart contract is designed to run functions automatically based on a time sc
 
 📸 Deployment & Automation Screenshots
 1️⃣ Contract Deployment Transaction (Etherscan)
-![Deployment Screenshot](./d08533d5-0c04-475b-828c-5a14a581fb0c.png)
+![Deployment Screenshot]<img width="1920" height="1080" alt="Screenshot (347)" src="https://github.com/user-attachments/assets/88915be4-5dbf-41d0-9993-56f030882b6d" />
+
 
 2️⃣ Chainlink Automation Registration Dashboard
-![Chainlink Automation Screenshot](./d1096bf9-4979-4ed4-b695-467463b7bfc4.png)
+![Chainlink Automation Screenshot]<img width="1920" height="1080" alt="Screenshot (348)" src="https://github.com/user-attachments/assets/3803feb6-67f7-44dc-af5a-391320b9ebb6" />
+
 
 🔗 Important Links & Transaction Details
 🧾 Contract Creation Transaction
